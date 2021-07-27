@@ -10,4 +10,3 @@ jobs:
           APPROVALS: "1"
           ADD_LABEL: "foobar"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-	  
